@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GitHubJobCA</string>
+    <string name="title">title</string>
+    <string name="location">location</string>
+    <string name="company">company</string>
+    <string name="type">type</string>
+    <string name="description">description</string>
+    <string name="url">URL</string>
+    <string name="download_error">Download Error</string>
+    <string name="data_error">Invalid Data</string>
+    <string name="nextJob">Next Job >></string>
+    <string name="homeButton">Home</string>
+    <string name="previousJob">Previous Job</string>
+    <string name="jobInformation">Job List</string>
+    <string name="headline">Data Science Jobs in California</string>
+    <string name="attribution"> Data provided by GitHub</string>
+    <string name="tile_location">%1$s -%2$s</string>
+    <string name="instruction">A list of Data Science Jobs in California provided by GitHub can be accessed by clicking on the Job List button below. Then clicking onto any job on the list will display the detail of the job. The web site can be accessed by clicking onto the provided link.</string>
+
+</resources>
